@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\bin\Debug\NextPrime.exe.config
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\bin\Debug\NextPrime.exe
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\bin\Debug\NextPrime.pdb
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\obj\Debug\NextPrime.csprojAssemblyReference.cache
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\obj\Debug\NextPrime.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\obj\Debug\NextPrime.exe
+C:\Users\Jaspon\source\repos\Exercises\NextPrime\obj\Debug\NextPrime.pdb
